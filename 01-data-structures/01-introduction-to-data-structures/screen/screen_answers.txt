@@ -1,0 +1,8 @@
+How does your data structure allow developers to access and manipulate the data?
+The data structure contains a nested array which allows developers to access and manipulate elements by index through the matrix.
+
+If a developer wanted to find a specific element in your data structure, how would you search for it?
+The 'find_index' is a universally good method to search this data structure. You can find the specific element's location or see what element is in a particular index.
+
+What other real-world data can each structure represent?
+A battleship game could utilize this type of data structure.

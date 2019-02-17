@@ -1,0 +1,8 @@
+How does your data structure allow developers to access and manipulate the data?
+The data structure is an array which allows developers to access and manipulate elements by index.
+
+If a developer wanted to find a specific element in your data structure, how would you search for it?
+They could use the 'find_index' method to find where the element is located or to see what element is in that current index.
+
+What other real-world data can each structure represent?
+This data structure could be useful in an app for taking reservation for a restaurant.
